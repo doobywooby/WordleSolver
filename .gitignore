@@ -1,0 +1,13 @@
+# Compiled
+*.class
+
+# Build
+bin/
+out/
+build/
+target/
+
+# Eclipse
+.settings/
+.project
+.classpath
